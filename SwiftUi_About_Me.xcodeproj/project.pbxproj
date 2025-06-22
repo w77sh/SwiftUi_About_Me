@@ -16,7 +16,6 @@
 		7E98DBFE2E086FB7008DDD42 /* FunFactsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E98DBFD2E086FB7008DDD42 /* FunFactsView.swift */; };
 		7E98DC002E0870D0008DDD42 /* FavoritesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E98DBFF2E0870D0008DDD42 /* FavoritesView.swift */; };
 		7E98DC032E08714A008DDD42 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E98DC022E08714A008DDD42 /* Data.swift */; };
-		7E98DC052E0887AF008DDD42 /* BackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E98DC042E0887AF008DDD42 /* BackgroundView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,7 +29,6 @@
 		7E98DBFD2E086FB7008DDD42 /* FunFactsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunFactsView.swift; sourceTree = "<group>"; };
 		7E98DBFF2E0870D0008DDD42 /* FavoritesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesView.swift; sourceTree = "<group>"; };
 		7E98DC022E08714A008DDD42 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
-		7E98DC042E0887AF008DDD42 /* BackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,7 +84,6 @@
 				7E98DBF72E086F8A008DDD42 /* HomeView.swift */,
 				7E98DBFF2E0870D0008DDD42 /* FavoritesView.swift */,
 				7E98DBF92E086FA3008DDD42 /* StoryView.swift */,
-				7E98DC042E0887AF008DDD42 /* BackgroundView.swift */,
 				7E98DBFD2E086FB7008DDD42 /* FunFactsView.swift */,
 				7E98DC012E087140008DDD42 /* Data */,
 			);
@@ -173,7 +170,6 @@
 			files = (
 				7E98DC032E08714A008DDD42 /* Data.swift in Sources */,
 				7E98DBF82E086F8A008DDD42 /* HomeView.swift in Sources */,
-				7E98DC052E0887AF008DDD42 /* BackgroundView.swift in Sources */,
 				7E98DBEB2E086F2A008DDD42 /* ContentView.swift in Sources */,
 				7E98DC002E0870D0008DDD42 /* FavoritesView.swift in Sources */,
 				7E98DBFE2E086FB7008DDD42 /* FunFactsView.swift in Sources */,
