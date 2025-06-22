@@ -25,7 +25,7 @@ This app contains 4 main views:
 
 ## 📸 Screenshots
 
-> 💡 Place all screenshot images in a folder named `screenshots/`.
+
 
 ### 🏠 Home View
 
