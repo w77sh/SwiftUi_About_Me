@@ -10,14 +10,16 @@ import SwiftUI
 struct HomeView: View {
     var body: some View {
         VStack{
+            
             Text("All About")
                 .font(.largeTitle)
                 .fontWeight(/*@START_MENU_TOKEN@*/.bold/*@END_MENU_TOKEN@*/)
                 .padding()
             
-            Image(information.image)
+            Image(systemName: information.image)
                 .resizable()
                 .aspectRatio(contentMode: .fit)
+                .foregroundStyle(.gray.gradient)
                 .padding(40)
                 
             
